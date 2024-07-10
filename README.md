@@ -1,1 +1,1 @@
-estan ordenados del 1 al z
+estan enumerados, ademass esta el archivo.json de los nombres
